@@ -539,7 +539,7 @@ const App: React.FC = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-purple-400 to-pink-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             </a>
             <a
-              href="https://linkedin.com/in/ishay-l"
+              href="https://www.linkedin.com/in/ishay-lindenberg/"
               target="_blank"
               rel="noopener noreferrer"
               className="magnetic group relative px-8 py-4 bg-gradient-to-r from-blue-700 to-cyan-600 rounded-full font-semibold text-lg hover:from-blue-600 hover:to-cyan-500 transition-all duration-300 shadow-2xl shadow-blue-600/40 hover:shadow-blue-500/60 hover:shadow-3xl overflow-hidden"
@@ -816,7 +816,7 @@ const App: React.FC = () => {
         <div className="max-w-5xl mx-auto text-center">
           <div className="flex flex-wrap justify-center gap-6 md:gap-10 mb-12">
             <a
-              href="https://linkedin.com/in/ishay-l"
+              href="https://linkedin.com/in/ishay-lindenberg/"
               target="_blank"
               rel="noopener noreferrer"
               className="magnetic group relative px-10 py-4 bg-gradient-to-br from-slate-800 to-slate-900 hover:from-blue-600 hover:to-indigo-700 rounded-2xl font-bold text-lg transition-all duration-400 border border-slate-700 hover:border-blue-500 shadow-xl hover:shadow-blue-500/40 overflow-hidden"
