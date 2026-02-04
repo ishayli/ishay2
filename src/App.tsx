@@ -496,7 +496,7 @@ const App: React.FC = () => {
           <div className="mb-8">
             <h1
               ref={titleRef}
-              className="text-5xl md:text-7xl lg:text-8xl font-black mb-6 bg-gradient-to-r from-cyan-400 via-blue-500 via-indigo-500 to-purple-500 bg-clip-text text-transparent drop-shadow-2xl"
+              className="text-4xl md:text-6xl lg:text-7xl font-black mb-4 bg-gradient-to-r from-cyan-400 via-blue-500 via-indigo-500 to-purple-500 bg-clip-text text-transparent drop-shadow-2xl"
               style={{
                 textShadow: '0 0 80px rgba(59, 130, 246, 0.6)'
               }}
@@ -566,7 +566,7 @@ const App: React.FC = () => {
       {/* Portfolio Section */}
       <section className="py-24 px-4 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
         <div className="max-w-7xl mx-auto">
-          <h2 className="section-title text-4xl md:text-5xl lg:text-6xl font-black text-center mb-6 bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">
+          <h2 className="section-title text-3xl md:text-4xl lg:text-5xl font-black text-center mb-4 bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">
             Featured Projects
           </h2>
           <p className="text-gray-400 text-center text-lg md:text-xl mb-16 max-w-3xl mx-auto">
@@ -708,7 +708,7 @@ const App: React.FC = () => {
       {/* Skills Section */}
       <section className="py-24 px-4 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
         <div className="max-w-7xl mx-auto">
-          <h2 className="section-title text-4xl md:text-5xl lg:text-6xl font-black text-center mb-6 bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">
+          <h2 className="section-title text-3xl md:text-4xl lg:text-5xl font-black text-center mb-4 bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">
             Skills & Expertise
           </h2>
           <p className="text-gray-400 text-center text-lg md:text-xl mb-16 max-w-3xl mx-auto">
@@ -760,7 +760,7 @@ const App: React.FC = () => {
       {/* Experience Section */}
       <section className="py-24 px-4 bg-gradient-to-b from-slate-950 via-blue-950/10 to-slate-950">
         <div className="max-w-5xl mx-auto">
-          <h2 className="section-title text-4xl md:text-5xl lg:text-6xl font-black text-center mb-6 bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">
+          <h2 className="section-title text-3xl md:text-4xl lg:text-5xl font-black text-center mb-4 bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent"">
             Professional Journey
           </h2>
           <p className="text-gray-400 text-center text-lg md:text-xl mb-20 max-w-2xl mx-auto">
